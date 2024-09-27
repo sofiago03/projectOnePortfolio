@@ -89,7 +89,9 @@ dd{
 	justify-content: center;
 	padding-bottom: 3%;
 	align-items: center;
-
+	font-family: "Gowun Batang", serif;
+	font-size: 16px;
+	line-height: 20px;
 }
 
 footer{
