@@ -1,0 +1,83 @@
+*{
+	box-sizing: border-box;
+	margin: 0%;
+	padding: 0%;
+	text-decoration: none;
+}
+
+body{
+	background-color: beige;
+}
+
+header{
+	background-color: #e9d9ab;
+	border: 2px solid#820707;
+	font-family: "Indie Flower", cursive;
+	font-size: 25px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+h1{
+	color: #820707;
+	font-size: 45px;
+	text-align: center;
+	font-family: "Indie Flower", cursive;
+	padding-top: 5%;
+}
+
+#sofiaPic{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding-right: 5%;
+}
+
+p{
+	font-family: "Gowun Batang", serif;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	padding: 5%;
+}
+
+img{
+	width: 30%;
+}
+
+#museums{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	
+}
+
+#outside{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+footer{
+	background-color: #e9d9ab;
+	border: 2px solid#820707;
+	font-family: "Indie Flower", cursive;
+	font-size: 20px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 15%;
+	padding-left: 15%;
+}

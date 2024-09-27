@@ -1,0 +1,87 @@
+*{
+	box-sizing: border-box;
+	margin: 0%;
+	padding: 0%;
+	text-decoration: none;
+}
+
+body{
+	background-color: beige;
+}
+
+header{
+	background-color: #e9d9ab;
+	border: 2px solid#820707;
+	font-family: "Indie Flower", cursive;
+	font-size: 25px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+h2{
+	color: #820707;
+	font-size: 45px;
+	text-align: center;
+	font-family: "Indie Flower", cursive;
+	padding-top: 5%;
+}
+
+h3{
+	font-family: "Gowun Batang", serif;
+	color: #820707;
+	font-size: 20px;
+	line-height: 10px;
+	text-align: center;
+	padding-top: 5%;
+}
+
+h4{
+	font-family: "Gowun Batang", serif;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	padding: 5%;
+}
+
+#guweiz{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+}
+
+#theMarias{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+}
+
+#vivienne{
+	display: flex;
+	flex-direction:row;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+	padding-bottom: 5%;
+}
+
+footer{
+	background-color: #e9d9ab;
+	border: 2px solid#820707;
+	font-family: "Indie Flower", cursive;
+	font-size: 20px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 15%;
+	padding-left: 15%;
+}
